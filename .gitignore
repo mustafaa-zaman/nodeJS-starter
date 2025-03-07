@@ -9,8 +9,8 @@ dist/
 *.tsbuildinfo
 
 # Environment files
-.env
 
 # IDE/editor settings
 .vscode/
 .idea/
+config.bat
